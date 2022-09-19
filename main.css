@@ -1,0 +1,40 @@
+
+.nav-bar {
+  text-align: center;
+}
+
+.nav-link {
+  padding: 5px;
+  margin: 1%;
+  background-color: grey;
+  color: #ebedeb;
+}
+
+.nav-link:hover {
+  background-color: #b5b5b5;
+}
+
+.nav-active {
+  background-color: #fa3c3c;
+}
+
+.box1 {
+  background-color: #c3e1e8;
+}
+
+.hello {
+  text-align: center;
+}
+
+ .background {
+   background-color: #ebedeb;
+ }
+
+.img {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.img2 {
+  width:
+}
